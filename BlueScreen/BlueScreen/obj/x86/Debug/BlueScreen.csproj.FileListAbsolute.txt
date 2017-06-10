@@ -1,0 +1,11 @@
+C:\Users\Florin\AppData\Local\Temporary Projects\BlueScreen\bin\Debug\BlueScreen.exe
+C:\Users\Florin\AppData\Local\Temporary Projects\BlueScreen\bin\Debug\BlueScreen.pdb
+C:\Users\Florin\AppData\Local\Temporary Projects\BlueScreen\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Florin\AppData\Local\Temporary Projects\BlueScreen\obj\x86\Debug\BlueScreen.Properties.Resources.resources
+C:\Users\Florin\AppData\Local\Temporary Projects\BlueScreen\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Florin\AppData\Local\Temporary Projects\BlueScreen\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Florin\AppData\Local\Temporary Projects\BlueScreen\obj\x86\Debug\BlueScreen.exe
+C:\Users\Florin\AppData\Local\Temporary Projects\BlueScreen\obj\x86\Debug\BlueScreen.pdb
+C:\Users\Florin\AppData\Local\Temporary Projects\BlueScreen\obj\x86\Debug\BlueScreen.Form1.resources
+C:\Users\Florin\documents\visual studio 2010\Projects\BlueScreen\BlueScreen\obj\x86\Debug\BlueScreen.exe
+C:\Users\Florin\documents\visual studio 2010\Projects\BlueScreen\BlueScreen\obj\x86\Debug\BlueScreen.pdb

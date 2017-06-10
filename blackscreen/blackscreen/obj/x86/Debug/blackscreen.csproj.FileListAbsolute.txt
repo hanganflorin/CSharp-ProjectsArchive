@@ -1,0 +1,44 @@
+C:\Users\Florin\AppData\Local\Temporary Projects\blackscreen\bin\Debug\blackscreen.exe
+C:\Users\Florin\AppData\Local\Temporary Projects\blackscreen\bin\Debug\blackscreen.pdb
+C:\Users\Florin\AppData\Local\Temporary Projects\blackscreen\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Florin\AppData\Local\Temporary Projects\blackscreen\obj\x86\Debug\blackscreen.Form1.resources
+C:\Users\Florin\AppData\Local\Temporary Projects\blackscreen\obj\x86\Debug\blackscreen.Properties.Resources.resources
+C:\Users\Florin\AppData\Local\Temporary Projects\blackscreen\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Florin\AppData\Local\Temporary Projects\blackscreen\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Florin\AppData\Local\Temporary Projects\blackscreen\obj\x86\Debug\blackscreen.exe
+C:\Users\Florin\AppData\Local\Temporary Projects\blackscreen\obj\x86\Debug\blackscreen.pdb
+C:\Users\Florin\Documents\blackscreen\blackscreen\obj\x86\Debug\blackscreen.exe
+C:\Users\Florin\Documents\blackscreen\blackscreen\obj\x86\Debug\blackscreen.pdb
+C:\Users\Florin\Documents\blackscreen\blackscreen\bin\Debug\blackscreen.exe
+C:\Users\Florin\Documents\blackscreen\blackscreen\bin\Debug\blackscreen.pdb
+C:\Users\Florin\Documents\blackscreen\blackscreen\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Florin\Documents\blackscreen\blackscreen\obj\x86\Debug\blackscreen.Form1.resources
+C:\Users\Florin\Documents\blackscreen\blackscreen\obj\x86\Debug\blackscreen.Properties.Resources.resources
+C:\Users\Florin\Documents\blackscreen\blackscreen\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Florin\Documents\blackscreen\blackscreen\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\blackscreen\blackscreen\obj\x86\Debug\blackscreen.exe
+G:\blackscreen\blackscreen\obj\x86\Debug\blackscreen.pdb
+G:\blackscreen\blackscreen\bin\Debug\blackscreen.exe
+G:\blackscreen\blackscreen\bin\Debug\blackscreen.pdb
+G:\blackscreen\blackscreen\obj\x86\Debug\blackscreen.Form1.resources
+G:\blackscreen\blackscreen\obj\x86\Debug\blackscreen.Properties.Resources.resources
+F:\blackscreen\blackscreen\obj\x86\Debug\blackscreen.exe
+F:\blackscreen\blackscreen\obj\x86\Debug\blackscreen.pdb
+F:\blackscreen\blackscreen\bin\Debug\blackscreen.exe
+F:\blackscreen\blackscreen\bin\Debug\blackscreen.pdb
+F:\blackscreen\blackscreen\obj\x86\Debug\blackscreen.csprojResolveAssemblyReference.cache
+F:\blackscreen\blackscreen\obj\x86\Debug\blackscreen.Form1.resources
+F:\blackscreen\blackscreen\obj\x86\Debug\blackscreen.Properties.Resources.resources
+F:\blackscreen\blackscreen\obj\x86\Debug\blackscreen.csproj.GenerateResource.Cache
+G:\blackscreen\blackscreen\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\blackscreen\blackscreen\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\blackscreen\blackscreen\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programe C#\blackscreen\blackscreen\obj\x86\Debug\blackscreen.exe
+F:\Programe C#\blackscreen\blackscreen\obj\x86\Debug\blackscreen.pdb
+F:\Programe C#\blackscreen\blackscreen\bin\Debug\blackscreen.exe
+F:\Programe C#\blackscreen\blackscreen\bin\Debug\blackscreen.pdb
+F:\Programe C#\blackscreen\blackscreen\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programe C#\blackscreen\blackscreen\obj\x86\Debug\blackscreen.Form1.resources
+F:\Programe C#\blackscreen\blackscreen\obj\x86\Debug\blackscreen.Properties.Resources.resources
+F:\Programe C#\blackscreen\blackscreen\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programe C#\blackscreen\blackscreen\obj\x86\Debug\GenerateResource.write.1.tlog

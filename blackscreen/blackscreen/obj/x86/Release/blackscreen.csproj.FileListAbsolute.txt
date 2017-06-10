@@ -1,0 +1,9 @@
+C:\Users\Florin\Documents\blackscreen\blackscreen\bin\Release\blackscreen.exe
+C:\Users\Florin\Documents\blackscreen\blackscreen\bin\Release\blackscreen.pdb
+C:\Users\Florin\Documents\blackscreen\blackscreen\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Florin\Documents\blackscreen\blackscreen\obj\x86\Release\blackscreen.Form1.resources
+C:\Users\Florin\Documents\blackscreen\blackscreen\obj\x86\Release\blackscreen.Properties.Resources.resources
+C:\Users\Florin\Documents\blackscreen\blackscreen\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Florin\Documents\blackscreen\blackscreen\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Florin\Documents\blackscreen\blackscreen\obj\x86\Release\blackscreen.exe
+C:\Users\Florin\Documents\blackscreen\blackscreen\obj\x86\Release\blackscreen.pdb
