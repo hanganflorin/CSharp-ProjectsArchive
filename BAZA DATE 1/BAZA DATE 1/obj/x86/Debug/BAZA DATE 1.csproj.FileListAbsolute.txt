@@ -1,0 +1,13 @@
+C:\BAZA DATE 1\BAZA DATE 1\bin\Debug\BAZA DATE 1.exe.config
+C:\BAZA DATE 1\BAZA DATE 1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\BAZA DATE 1\BAZA DATE 1\obj\x86\Debug\BAZA_DATE_1.Form1.resources
+C:\BAZA DATE 1\BAZA DATE 1\obj\x86\Debug\BAZA_DATE_1.Properties.Resources.resources
+C:\BAZA DATE 1\BAZA DATE 1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\BAZA DATE 1\BAZA DATE 1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\BAZA DATE 1\BAZA DATE 1\bin\Debug\Users.mdf
+C:\BAZA DATE 1\BAZA DATE 1\bin\Debug\Users_log.ldf
+C:\BAZA DATE 1\BAZA DATE 1\bin\Debug\BAZA DATE 1.exe
+C:\BAZA DATE 1\BAZA DATE 1\bin\Debug\BAZA DATE 1.pdb
+C:\BAZA DATE 1\BAZA DATE 1\obj\x86\Debug\BAZA DATE 1.exe
+C:\BAZA DATE 1\BAZA DATE 1\obj\x86\Debug\BAZA DATE 1.pdb
+C:\BAZA DATE 1\BAZA DATE 1\obj\x86\Debug\BAZA_DATE_1.Form2.resources

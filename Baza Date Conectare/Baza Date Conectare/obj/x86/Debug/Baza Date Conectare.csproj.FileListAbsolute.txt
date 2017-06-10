@@ -1,0 +1,26 @@
+E:\Programe C#\Baza Date Conectare\Baza Date Conectare\bin\Debug\Baza Date Conectare.exe.config
+E:\Programe C#\Baza Date Conectare\Baza Date Conectare\bin\Debug\Utilizatori.mdf
+E:\Programe C#\Baza Date Conectare\Baza Date Conectare\bin\Debug\Utilizatori_log.ldf
+E:\Programe C#\Baza Date Conectare\Baza Date Conectare\bin\Debug\Baza Date Conectare.exe
+E:\Programe C#\Baza Date Conectare\Baza Date Conectare\bin\Debug\Baza Date Conectare.pdb
+E:\Programe C#\Baza Date Conectare\Baza Date Conectare\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programe C#\Baza Date Conectare\Baza Date Conectare\obj\x86\Debug\Baza_Date_Conectare.Form1.resources
+E:\Programe C#\Baza Date Conectare\Baza Date Conectare\obj\x86\Debug\Baza_Date_Conectare.Form2.resources
+E:\Programe C#\Baza Date Conectare\Baza Date Conectare\obj\x86\Debug\Baza_Date_Conectare.Properties.Resources.resources
+E:\Programe C#\Baza Date Conectare\Baza Date Conectare\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Programe C#\Baza Date Conectare\Baza Date Conectare\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Programe C#\Baza Date Conectare\Baza Date Conectare\obj\x86\Debug\Baza Date Conectare.exe
+E:\Programe C#\Baza Date Conectare\Baza Date Conectare\obj\x86\Debug\Baza Date Conectare.pdb
+E:\Programe C#\Baza Date Conectare\Baza Date Conectare\obj\x86\Debug\Baza_Date_Conectare.Form3.resources
+E:\Baza Date Conectare\Baza Date Conectare\bin\Debug\Baza Date Conectare.exe.config
+E:\Baza Date Conectare\Baza Date Conectare\obj\x86\Debug\Baza Date Conectare.exe
+E:\Baza Date Conectare\Baza Date Conectare\obj\x86\Debug\Baza Date Conectare.pdb
+E:\Baza Date Conectare\Baza Date Conectare\bin\Debug\Utilizatori.mdf
+E:\Baza Date Conectare\Baza Date Conectare\bin\Debug\Utilizatori_log.ldf
+E:\Baza Date Conectare\Baza Date Conectare\bin\Debug\Baza Date Conectare.exe
+E:\Baza Date Conectare\Baza Date Conectare\bin\Debug\Baza Date Conectare.pdb
+E:\Baza Date Conectare\Baza Date Conectare\obj\x86\Debug\Baza_Date_Conectare.Form1.resources
+E:\Baza Date Conectare\Baza Date Conectare\obj\x86\Debug\Baza_Date_Conectare.Form2.resources
+E:\Baza Date Conectare\Baza Date Conectare\obj\x86\Debug\Baza_Date_Conectare.Form3.resources
+E:\Baza Date Conectare\Baza Date Conectare\obj\x86\Debug\Baza_Date_Conectare.Properties.Resources.resources
+E:\Baza Date Conectare\Baza Date Conectare\obj\x86\Debug\Baza Date Conectare.csproj.GenerateResource.Cache
